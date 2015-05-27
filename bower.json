@@ -1,0 +1,22 @@
+{
+  "name": "Johns Website",
+  "version": "0.0.0",
+  "authors": [
+    "ryskiz <ryan.skinner1193@gmail.com>"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
